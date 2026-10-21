@@ -6,7 +6,7 @@ Permite que o **professor fale ao microfone** no seu idioma nativo e que os **al
 
 ---
 
-##  Principais Recursos
+## 🌟 Principais Recursos
 
 1. **Tradução Simultânea Multilíngue Bidirecional**:
    - 🇮🇳 **Hindi (हिन्दी)**
@@ -41,14 +41,14 @@ Permite que o **professor fale ao microfone** no seu idioma nativo e que os **al
 
 ---
 
-##  Como Executar
+## 🚀 Como Executar
 
 ### Opção A (Recomendada): Iniciar com o Servidor Local
 1. Abra a pasta `Yanik-Translator`.
 2. Dê 2 cliques no arquivo **`iniciar.bat`**.
 3. O navegador abrirá automaticamente em `http://localhost:3000`.
 
- ### Opção B: Abrir Direto sem Servidor
+### Opção B: Abrir Direto sem Servidor
 1. Abra a pasta `Yanik-Translator`.
 2. Dê 2 cliques no arquivo **`ABRIR_YANIK_TRANSLATOR.html`**.
 3. Abrirá diretamente no Google Chrome ou Edge pronto para usar!
